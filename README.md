@@ -1,2 +1,3 @@
 # IMDB-Dataset--Python
-project using python programming
+IMDB Dataset is related to top 1000 movies of the internet. This project is completed using python programming,
+libraries like NUmpy, Pandas, Matplotlib and seaborn.
